@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://b33h1i4rnskk7"]
+
+[ext_resource type="Texture2D" uid="uid://dt0q0nab7ibiu" path="res://assets/39527.png" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="Node2D"]
+
+[node name="39527" type="Sprite2D" parent="Node2D"]
+position = Vector2(556, -698)
+texture = ExtResource("1_wtcfe")
